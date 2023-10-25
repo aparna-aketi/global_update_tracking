@@ -66,7 +66,7 @@ python trainer.py --lr=0.1  --batch-size=512  --world_size=16 --skew=0.1  --epoc
 If you use the code, please cite the following paper:
 
 ```
-@inproceedings{aketi2024ccl,
+@inproceedings{aketi2023gut,
   title     = {Global Update Tracking: A Decentralized Learning Algorithm for Heterogeneous Data},
   author    = {Aketi, Sai Aparna and Hashemi, Abolfazl and Roy, Kaushik},
   booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
